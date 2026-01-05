@@ -3,5 +3,8 @@
 2. 저장하기
     -> git add .
     -> git commit -m 'message'
+                                    로컬
+                                =============
+                                    서버
 3. 업로드하기
     -> git push
